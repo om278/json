@@ -1,0 +1,38 @@
+{"QualificationData": [{
+			"qualification": "Select Qualification"
+		},{
+			"qualification": "ME"
+		},
+		{
+			"qualification": "M.tech"
+		},
+		{
+			"qualification": "BE"
+		},
+		{
+			"qualification": "B.tech"
+		},
+		{
+			"qualification": "Msc "
+		},
+		{
+			"qualification": "Bsc"
+		}, {
+			"qualification": "MCA"
+		}, {
+			"qualification": "BCA"
+		}, {
+			"qualification": "MA"
+		}, {
+			"qualification": "BA"
+		}, {
+			"qualification": "M.com"
+		}, {
+			"qualification": "B.com"
+		}, {
+			"qualification": "MBA"
+		}, {
+			"qualification": "BBA"
+		}
+	]
+}
